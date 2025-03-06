@@ -1,0 +1,19 @@
+{
+  "date": "2025-03-06",
+  "summary": "",
+  "statistics": {
+    "totalFiles": 0,
+    "totalChanges": 0,
+    "mostEditedFile": "None",
+    "workDuration": "0h 0m",
+    "fileTypes": {},
+    "peakActivityHour": "0:00-1:00",
+    "totalLinesChanged": 0
+  },
+  "projectDetails": {
+    "branch": "main",
+    "commitHash": "77484e3",
+    "remote": "https://github.com/machapraveen/Learning-management-system.git",
+    "name": "c:\\Users\\prave\\projects\\apps\\Learning Management System"
+  }
+}
