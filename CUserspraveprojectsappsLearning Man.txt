@@ -1,0 +1,5 @@
+C:\Users\prave\projects\apps\Learning Management System
+
+https://chat.deepseek.com/a/chat/s/f63b9971-ac28-4cd7-8bd5-42e0552c8642
+
+now some times i would like to change my gemini API, but do i need to go to the code base always to change it? Can you make that work very simple by adding feature in this screen? Make it the best
